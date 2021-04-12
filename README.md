@@ -30,7 +30,7 @@ This repository is used for documenting all information i have gathered for my c
 * You still need to self-isolate for 14 days. Plan your isolation accordingly. 
 
 ### References
-* [Delhi Airport Latest guidelines)[https://www.newdelhiairport.in/media/1622/latest-guidelines-for-international-arrivals.pdf?fbclid=IwAR23iADCyu02T9F88jOqw6YbkHGhd5ogoG7Zijlg1atCANxusW6FVQNmpaA]
+* [Delhi Airport Latest guidelines](https://www.newdelhiairport.in/media/1622/latest-guidelines-for-international-arrivals.pdf?fbclid=IwAR23iADCyu02T9F88jOqw6YbkHGhd5ogoG7Zijlg1atCANxusW6FVQNmpaA)
 * [Check whether you can travel wizard](https://travel.gc.ca/travel-covid/travel-restrictions/wizard-start?fbclid=IwAR0stg7Fjf1wx92CwD4Z5tBpdv8k8ChHjqA6p6s7DoMgApL5McvzadBLjUU)
 
 ## This repository is intented to be crowd sourced
