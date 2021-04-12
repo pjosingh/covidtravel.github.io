@@ -20,6 +20,15 @@ This repository is used for documenting all information i have gathered for my c
 * Use covid testing kit to do self covid testing after 10 days
   * If not positive, you can go out after your quarantine. Or else, you need to extend your stay at the booked place
 
+### 3-Day hotel quarantine 
+* According to rules, you can share your hotel stay with someone with whome you travelled. You need to provide their information in your ArriveCAN app as well
+* Costs about 850CAD and above in Vancouvoer
+* Only book from the link provide on [Travel.ca website](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice/mandatory-hotel-stay-air-travellers/list-government-authorized-hotels-booking.html)
+
+
+### Covid test in Delhi 
+* You can get covid testing done at Airport or from any authorized hospital. Prefer doing it in advance. IF your report is delayed, you won't be able to board your flight. 
+
 ### I got covid before traveling, due to which i cannot board my flight now 
 * You can now skip mandatory 3-day quarantine according to exceptions mentioned on travel.ca
 * Air canada allows you to reschedule any flight which is booked till May 2022 for free
