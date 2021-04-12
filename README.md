@@ -2,7 +2,7 @@
 This repository is used for documenting all information i have gathered for my covid travel
 
 
-## I am travelling from YVR to Delhi 
+## I am travelling from Delhi to YVR 
 
 ### High level steps 
 * Check whether you can travel 
@@ -20,14 +20,18 @@ This repository is used for documenting all information i have gathered for my c
 * Use covid testing kit to do self covid testing after 10 days
   * If not positive, you can go out after your quarantine. Or else, you need to extend your stay at the booked place
 
-## I am travelling from Delhi to YVR 
-* You need covid test before boarding the flight, book in advance
-* 
-
-## I got covid before traveling, due to which i cannot board my flight now 
+### I got covid before traveling, due to which i cannot board my flight now 
 * You can now skip mandatory 3-day quarantine according to exceptions mentioned on travel.ca
 * Air canada allows you to reschedule any flight which is booked till May 2022 for free
 * You still need to self-isolate for 14 days. Plan your isolation accordingly. 
+
+---
+
+## I am travelling from YVR to Delhi
+* You need covid test before boarding the flight, book in advance
+* 14 day mandatory quarantine
+
+
 
 ### References
 * [Delhi Airport Latest guidelines](https://www.newdelhiairport.in/media/1622/latest-guidelines-for-international-arrivals.pdf?fbclid=IwAR23iADCyu02T9F88jOqw6YbkHGhd5ogoG7Zijlg1atCANxusW6FVQNmpaA)
